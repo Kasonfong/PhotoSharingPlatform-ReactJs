@@ -1,0 +1,72 @@
+{
+  "username": [
+    {
+      "username": "ka",
+      "password": "666",
+      "id": "b6d74673-05eb-4656-9cad-7e79da9c1eb8"
+    },
+    {
+      "username": "kasonfong",
+      "password": "ka0516",
+      "id": "b1e1ec5e-7ad1-4066-bc3c-de2d1cd2e59f"
+    }
+  ],
+  "posts": [
+    {
+      "id": "6b5ca379-8259-4403-89b3-a2096ce5ba8b",
+      "author": "ka",
+      "date": "2023-2-16",
+      "time": "23:02",
+      "description": "eqe",
+      "photo": "IMG_2761.jpg"
+    },
+    {
+      "id": "28be6948-7933-40b6-95b1-740b57ad6f03",
+      "author": "ka",
+      "date": "2023-2-16",
+      "time": "23:04",
+      "description": "dqw",
+      "photo": "IMG_2912-2.jpg"
+    },
+    {
+      "id": "a744cd46-a382-4aef-845e-1884a81171c6",
+      "author": "ka",
+      "date": "2023-02-16",
+      "time": "23:05",
+      "description": "wqe",
+      "photo": "IMG_4494.jpg"
+    },
+    {
+      "id": "636e0ad5-0907-4769-9a03-4660a10ef8ee",
+      "author": "kasonfong",
+      "date": "2023-02-17",
+      "time": "0:31",
+      "description": "kasonfong1234",
+      "photo": "IMG_0862.jpg"
+    },
+    {
+      "id": "e0445c2f-bb9f-4513-b37c-421f1856ace8",
+      "author": "ka",
+      "date": "2023-02-17",
+      "time": "22:52",
+      "description": "1234",
+      "photo": "IMG_0862.jpg"
+    },
+    {
+      "id": "531e66f6-ec9e-4c86-819c-326be92fa1d2",
+      "author": "shing",
+      "date": "2023-02-17",
+      "time": "22:53",
+      "description": "123",
+      "photo": "IMG_0862.jpg"
+    },
+    {
+      "id": "b239dfa1-e176-4749-b8f5-ad4ac5331596",
+      "author": "ka",
+      "date": "2023-02-17",
+      "time": "23:00",
+      "description": "test",
+      "photo": "IMG_2594.jpg"
+    }
+  ]
+}
