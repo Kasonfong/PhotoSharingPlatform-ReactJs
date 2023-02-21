@@ -1,0 +1,86 @@
+.main{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: darkkhaki;
+}
+
+
+
+.postByWho{
+    size:20;
+    color: white;
+    text-align:left;
+    font-weight: bold;
+}
+
+.postDateAndTime{
+    size:20;
+    color: white;
+    text-align: right;
+    font-weight: bold;
+}
+
+.postDescription{
+
+    size:30;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+
+.postArea{
+
+    width: 50%;
+    height: 90%;
+    background-color:coral;
+
+    
+}
+
+
+.postDetailsArea{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:chocolate
+    
+}
+
+
+
+.postDescriptionArea{
+
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:grey
+}
+
+
+
+.photoArea{
+
+
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:lavender
+}
+
+.photoItself{
+    width:  450px;
+    height: 300px;
+}
+
+

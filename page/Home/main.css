@@ -1,0 +1,91 @@
+.main{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #D2A24F;
+}
+
+
+
+.postByWho{
+    size:20;
+    color: white;
+    text-align:left;
+    font-weight: bold;
+    display: flex;
+}
+
+.postDateAndTime{
+    size:20;
+    color: white;
+    text-align: right;
+    font-weight: bold;
+    display: flex;
+}
+
+.postDescription{
+
+    size:30;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    display: flex;
+}
+
+
+.postArea{
+
+    width: 50%;
+    height: 90%;
+    background-color:#99C1DE;
+    display: flexx;
+   
+
+    
+}
+
+
+.postDetailsArea{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#DE6F6D
+    
+}
+
+
+
+.postDescriptionArea{
+
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#99C1DE
+}
+
+
+
+.photoArea{
+
+
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#CCDF83
+}
+
+.photoItself{
+    width:  504px;
+    height: 336px;
+}
+
+

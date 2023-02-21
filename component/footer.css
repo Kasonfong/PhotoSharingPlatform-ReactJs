@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #AEB84F;
+}
+.by{
+    size: 20 ;
+    color: #91504E;
+    font-weight: bold;
+    
+    /* background-color:darkgoldenrod; */
+}
+
+.footerLink{
+    color:#FFFFFF;
+    text-decoration:  none;
+    padding:  0.5rem 1rem;
+  
+  
+  }

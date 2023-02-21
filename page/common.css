@@ -1,0 +1,27 @@
+.infoArea{
+    width: 70%;
+    height: 90%;
+    background-color:lavender;    
+}
+
+
+.info{
+    size:40;
+    color:royalblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.input{
+
+    width: 30%;
+    text-align: center;
+    
+}
+
+
+.button{
+    background-color:gold;
+    text-decoration: none;
+}
+
